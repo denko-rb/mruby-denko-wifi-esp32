@@ -1,4 +1,4 @@
-# mruby-denko-wifi
+# mruby-denko-wifi-esp32
 
 This gem implements Wi-Fi connectivity for the ESP32, running Denko on mruby.
 
