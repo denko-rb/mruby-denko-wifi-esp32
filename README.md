@@ -19,4 +19,4 @@ wifi.connect('SSID', 'password')
 
 ## Dependencies
 
-So far, this is purely a function remapping of [mruby-esp32-wifi](https://github.com/denko-rb/mruby-esp32-wifi), from `ESP32::WiFi` into `WiFi`. That repo is used as a submodule.
+So far, this is purely a function remapping of [mruby-esp32-wifi](https://github.com/mruby-esp32/mruby-esp32-wifi), from `ESP32::WiFi` into `WiFi`. That repo is used as a submodule.
