@@ -4,6 +4,8 @@ This gem implements Wi-Fi connectivity for the ESP32, running Denko on mruby.
 
 It is part of [mruby-denko](https://github.com/denko-rb/mruby-denko), and should be used through the ESP-IDF projects in that repository.
 
+You may wish to enable it together with the accompanying [MQTT client gem](https://github.com/denko-rb/mruby-denko-mqtt-esp32), or the core `mruby-socket` gem.
+
 ## Example
 
 ```ruby
