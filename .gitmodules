@@ -1,0 +1,3 @@
+[submodule "ext/mruby-esp32-wifi"]
+	path = ext/mruby-esp32-wifi
+	url = https://github.com/mruby-esp32/mruby-esp32-wifi.git
